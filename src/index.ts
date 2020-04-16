@@ -1,3 +1,1 @@
-export const test = () => {
-  console.log('hello world');
-};
+export { IPosition } from './interfaces/position';
