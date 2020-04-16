@@ -1,9 +1,9 @@
-# Distance
+# Spatium
 
 ## Installation
 
 ```bash
-$ npm install
+$ npm install spatium
 ```
 
 ## Example

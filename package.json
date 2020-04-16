@@ -1,7 +1,7 @@
 {
-  "name": "distance",
+  "name": "spatium",
   "version": "1.0.0",
-  "description": "Calculate distance between two points.",
+  "description": "Calculate the distance between two points.",
   "author": {
     "name": "Mikołaj Palkiewicz",
     "email": "xnerhu@gmail.com"
@@ -9,9 +9,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xnerhu/distance.git"
+    "url": "git+https://github.com/xnerhu/spatium.git"
   },
-  "homepage": "https://github.com/xnerhu/distance#readme",
+  "homepage": "https://github.com/xnerhu/spatium#readme",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "scripts": {
